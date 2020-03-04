@@ -7,12 +7,12 @@
 *     Email: mayer129@mail.chapman.edu
 *     Course: CPSC 353-01
 *     Sources:
-*	      https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/
+*       https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/
 *       https://www.tutorialspoint.com/cprogramming/c_file_io.htm
 *       https://linux.die.net/man/3/read
 *       https://linuxconfig.org/cat-command
 *       https://stackoverflow.com/questions/2844163/how-do-i-use-strace-to-know-about-system-calls-in-my-c-program
-*	      http://www.cplusplus.com/reference/cstdio/stderr/
+*       http://www.cplusplus.com/reference/cstdio/stderr/
 *
 */
 
